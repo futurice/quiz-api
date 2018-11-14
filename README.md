@@ -8,7 +8,7 @@ You can try it out yourself [here][deploy]!
 
 The package exposes a REST API with two separate endpoints:
 
-- `/questsions` - returns a list of questions on the format:
+- `/questions` - returns a list of questions on the format:
 
     ```json
     [
